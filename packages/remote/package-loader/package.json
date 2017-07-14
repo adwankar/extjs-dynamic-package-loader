@@ -1,0 +1,22 @@
+{
+  "name": "package-loader",
+  "format": "1",
+  "version": "1.0.0.230",
+  "compatVersion": "1.0.0",
+  "creator": "Sencha",
+  "summary": "Dynamic package loader",
+  "detailedDescription": "This package provides a mechanism to load additional code packages at runtime",
+  "type": "code",
+  "signatures": [
+    {
+      "name": "Sencha",
+      "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+      "created": "2017-04-27T23:51:36Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "U38MqB1E7Oo\u003d",
+      "signature": "V9t6w342nDvYJeObtSg5s8bzSWZVcp+yMIeVdWHpMTEA+xjfDJBhS13YomVSR+6+XlyB0inpSNjAN6vqUZJNvmv+a+NxHxcAHTwrb7IYFUnKu2pOgevvfotHdpMA9ZQcIie0jJRikf7asqb5a9rqURmvg/ApnB1yVe2JTBBDVYLSfhEny5VZux4dNVJZiIOEo/NXVvOKanAPX0NRsoe7zRRKgA0qrQTvsBb0HH/jM32TzJkj2/aOFIhYPIFZWpdYCulii8XwR51+y3D7FwQA3ji3iSQQfDBJB5bG6RU5aCHK/z0Tg49u5gykTB9puvKMmVxR2m3Rs+Z9OrHoWKWz3bJluxQXcKa+C7qsx/F9FBWdGD3DW8knznIU162Stk1C8EY7G9nMnorzapvwLdeG1v+W066TT2I5sy8BOKiDWLAacsAXQa+SWXbkACcwQNIWECxzt0AxaYTS9qYrOg2qHh8RlODXMY0xAbCGZGBtrRunKKWkSjSDfoFHdTbJO/go6x27fS6z3heyEBZQ7UBbvd4Ku3gfQpnA+/6lGMxubL1qRmG4j+xWTtRSVohA+2E1Ww1BVBhmLyDd7mP/QtqvzYQ7QC6v/ZCaKNOD0OYV4Np1SXduk2BkS1OPu/i9rQA3cnRY4Sh/VcebqBRIskK5dyEL8e5keYgIugplzFo6KoM\u003d"
+    }
+  ],
+  "classpath": "${package.dir}/src",
+  "framework": "ext"
+}
