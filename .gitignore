@@ -4,4 +4,3 @@ build/
 .sencha/
 bootstrap.*
 # we ignore the build.xml file because we are not customizing it
-build.xml
